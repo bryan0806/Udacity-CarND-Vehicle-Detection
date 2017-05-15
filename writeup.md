@@ -16,15 +16,15 @@ The goals / steps of this project are the following:
 [image2]: ./report/HOG_example.jpg
 [image3]: ./examples/sliding_windows.jpg
 [image4]: ./report/sliding_window.jpg
-[image5]: ./report/bboxes_and_heat1.jpg
+[image5]: ./report/bboxes_and_heat1.png
 [image6]: ./report/labels_map.png
 [image7]: ./report/labels_map.png
 [video1]: ./project_video_output_subsample_resetatBegin.mp4
-[image8]: ./report/bboxes_and_heat2.jpg
-[image9]: ./report/bboxes_and_heat3.jpg
-[image10]: ./report/bboxes_and_heat4.jpg
-[image11]: ./report/bboxes_and_heat5.jpg
-[image12]: ./report/bboxes_and_heat6.jpg
+[image8]: ./report/bboxes_and_heat2.png
+[image9]: ./report/bboxes_and_heat3.png
+[image10]: ./report/bboxes_and_heat4.png
+[image11]: ./report/bboxes_and_heat5.png
+[image12]: ./report/bboxes_and_heat6.png
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
 ###Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
