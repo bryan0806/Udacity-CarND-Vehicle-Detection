@@ -16,10 +16,15 @@ The goals / steps of this project are the following:
 [image2]: ./report/HOG_example.jpg
 [image3]: ./examples/sliding_windows.jpg
 [image4]: ./report/sliding_window.jpg
-[image5]: ./report/bboxes_and_heat.jpg
+[image5]: ./report/bboxes_and_heat1.jpg
 [image6]: ./report/labels_map.png
 [image7]: ./report/labels_map.png
 [video1]: ./project_video_output_subsample_resetatBegin.mp4
+[image8]: ./report/bboxes_and_heat2.jpg
+[image9]: ./report/bboxes_and_heat3.jpg
+[image10]: ./report/bboxes_and_heat4.jpg
+[image11]: ./report/bboxes_and_heat5.jpg
+[image12]: ./report/bboxes_and_heat6.jpg
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
 ###Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
@@ -166,6 +171,11 @@ Here's an example result showing the heatmap from a series of frames of video, t
 ### Here are six frames and their corresponding heatmaps:
 
 ![alt text][image5]
+![alt text][image8]
+![alt text][image9]
+![alt text][image10]
+![alt text][image11]
+![alt text][image12]
 
 ### Here is the output of `scipy.ndimage.measurements.label()` on the integrated heatmap from all six frames:
 ![alt text][image6]
